@@ -2,7 +2,7 @@
 
 a gruvbox discord theme.
 
-<img width=800 src="https://github.com/saveside/Gruvbox-Discord-Theme-Midnight/flavors/image.png">
+<img width=800 src="https://raw.githubusercontent.com/saveside/Gruvbox-Discord-Theme-Midnight/main/flavors/image.png">
 
 ## install
 
@@ -21,7 +21,7 @@ add `https://saveside.github.io/Gruvbox-Discord-Theme/gruvbox-midnight.css` to y
 
 ## flavors
 
-<img width=800 src="https://github.com/saveside/Gruvbox-Discord-Theme-Midnight/flavors/image.png">
+<img width=800 src="https://raw.githubusercontent.com/saveside/Gruvbox-Discord-Theme-Midnight/main/flavors/image.png">
 
 ## credits
 
