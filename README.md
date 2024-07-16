@@ -17,7 +17,7 @@ a gruvbox discord theme.
 
 #### install through link
 
-add `https://saveside.github.io/Gruvbox-Discord-Theme/gruvbox-midnight.css` to your theme import links.
+add `https://raw.githubusercontent.com/saveside/Gruvbox-Discord-Theme-Midnight/main/gruvbox-midnight.css` to your theme import links.
 
 ## flavors
 
