@@ -5,7 +5,7 @@
  * @version 1.0
  * @invite nz87hXyvcy
  * @midnight_website https://github.com/refact0r/midnight-discord
- * @source https://github.com/refact0r/midnight-discord/blob/master/flavors/midnight-vencord.theme.css
+ * @source https://github.com/saveside/gruvbox-discord-theme-midnight/blob/main/gruvbox-midnight.css
  * @authorId 439438159840018443
  * @authorLink https://bio.savedsgn.com/
 */
@@ -19,10 +19,10 @@
 /* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
-	--font: 'Inter';
+	--font: 'gg sans';
 
 	/* top left corner text */
-	--corner-text: 'Vencord';
+	--corner-text: 'Gruvbox';
 
 	/* color of status indicators and window controls */
 	--online-indicator: #b8bb26; /* change to #23a55a for default green */
