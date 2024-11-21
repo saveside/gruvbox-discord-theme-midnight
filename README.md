@@ -23,6 +23,10 @@ add `https://raw.githubusercontent.com/saveside/Gruvbox-Discord-Theme-Midnight/m
 
 <img width=800 src="https://raw.githubusercontent.com/saveside/Gruvbox-Discord-Theme-Midnight/main/flavors/image.png">
 
+## star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=saveside/gruvbox-discord-theme-midnight&type=Date)](https://star-history.com/#saveside/gruvbox-discord-theme-midnight&Date)
+
 ## credits
 
 original design inspired by <https://github.com/schnensch0/zelk>
